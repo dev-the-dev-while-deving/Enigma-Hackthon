@@ -1,0 +1,2 @@
+[gymnasium.envs.__root__]
+highway-env = highway_env:_register_highway_envs
